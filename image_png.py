@@ -24,7 +24,7 @@ disp.clear()
 disp.display()
 
 #load image
-image = Image.open('logo_bw.png').resize((128, 64), Image.ANTIALIAS).convert('1')
+image = Image.open('/home/pi/scripts/logo_bw.png').resize((128, 64), Image.ANTIALIAS).convert('1')
 
 # Display image.
 disp.image(image)

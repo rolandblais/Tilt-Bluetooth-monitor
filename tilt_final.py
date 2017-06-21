@@ -57,7 +57,7 @@ draw.rectangle((0,0,width,height), outline=0, fill=0)
 
 # Load font.
 #font = ImageFont.load_default()
-font = ImageFont.truetype('437.ttf', 8)
+font = ImageFont.truetype('/home/blais/pi/437.ttf', 8)
 
 
 secDelay = 60 #pause for network to spin up, usually 60
