@@ -67,3 +67,4 @@ draw.text((x, top+25),    str(Disk),  font=font, fill=255)
 # Display image.
 disp.image(image)
 disp.display()
+time.sleep(5)
