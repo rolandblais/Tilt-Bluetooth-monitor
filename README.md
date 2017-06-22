@@ -30,6 +30,7 @@ Guides used:
 
 https://learn.adafruit.com/ssd1306-oled-displays-with-raspberry-pi-and-beaglebone-black
 https://www.instructables.com/id/Reading-a-Tilt-Hydrometer-With-a-Raspberry-Pi/
+https://www.youtube.com/watch?v=GozTgELT5bo&lc
 
 Here it is in action:
 https://youtu.be/XwExcNjErWU
