@@ -3,7 +3,7 @@ Collection of scripts for my Pi Zero W Tilt Hyderometer monitor.
 
 The three big players are stats.py, image_logo.py, and tilt_final.py
 
-stats.py throws some stats up on the oled screen, image_logo.py displays the Tilt logo for a few seconds (because I can't figure out how to show an image, then display text in the same script and I got tired of mesing with it, and finally tilt_final.py gets the status of the Tilt Sensor, and displays it to the screen. Then pushes are done to sheets.google.com and brewstat.us. Finally a countdown is shown to the next reading (600 seconds between reads).
+stats.py throws some stats up on the oled screen, image_logo.py displays the Tilt logo for a few seconds (because I can't figure out how to show an image, then display text in the same script and I got tired of messing with it, and finally tilt_final.py gets the status of the Tilt Sensor, and displays it to the screen. Then pushes are done to sheets.google.com and brewstat.us. Finally a countdown is shown to the next reading (600 seconds between reads).
 
 Parts used:
 
