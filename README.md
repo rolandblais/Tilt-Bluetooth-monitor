@@ -1,5 +1,5 @@
 # scripts
-Collection of scripts for my Pi Zero W Tilt Hyderometer monitor.
+Collection of scripts for my Pi Zero W Tilt Hydrometer monitor.
 
 The three big players are stats.py, image_logo.py, and tilt_final.py
 
