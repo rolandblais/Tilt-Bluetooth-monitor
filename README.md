@@ -6,16 +6,17 @@ The three big players are stats.py, image_logo.py, and tilt_final.py
 stats.py throws some stats up on the oled screen, image_logo.py displays the Tilt logo for a few seconds (because I can't figure out how to show an image, then display text in the same script and I got tired of messing with it, and finally tilt_final.py gets the status of the Tilt Sensor, and displays it to the screen. Then pushes are done to sheets.google.com and brewstat.us. Finally a countdown is shown to the next reading (600 seconds between reads).
 
 Parts used:
+(asins have changed since I built the project; double check before you buy!)
 
 Tilt Hydrometer sensor - 
-https://tilthydrometer.com/products/brewometer
+https://tilthydrometer.com/products/copy-of-tilt-floating-wireless-hydrometer-and-thermometer-for-brewing
 
 Raspberry Pi Zero -
-https://smile.amazon.com/gp/product/B06XCYGP27/
+https://www.amazon.com/Raspberry-Pi-Zero-WH-Pre-Soldered/dp/B07W3GJTM1
 I got the kit for the headers and usb accessories.
 
 Power supply -
-https://www.adafruit.com/product/1995
+https://www.amazon.com/CanaKit-Raspberry-Supply-Adapter-Listed/dp/B00MARDJZ4
 
 Display -
 https://smile.amazon.com/gp/product/B01IWGXUAK/
